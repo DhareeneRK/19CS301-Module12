@@ -20,8 +20,7 @@ To perform basic stack operations by inserting three elements, deleting one elem
 7.End
 
 ## PROGRAM
-Reg no: 212223020021
-Name: Ranjith P
+
 
 ```
 stack = []
